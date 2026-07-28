@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jan
-<p>A Computer Science student</p>  
+<p>A Computer Science student</p>
 
 ## 🚀 Languages and Tools I Use
 <p>
@@ -24,13 +24,4 @@
 </p>
 
 ## 📊 GitHub Stats
-![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkndd&show_icons=true&locale=en&theme=dark)
-
-## 🔥 Streak Stats
-![Jan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=darkndd&theme=dark)
-
-## 🗂️ Top Languages
-![Jan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=darkndd&show_icons=true&locale=en&layout=compact&theme=dark)
-
-## 🏆 GitHub Trophies
-[![Jan's Trophies](https://github-profile-trophy.vercel.app/?username=darkndd&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+![Jan's GitHub Metrics](github-metrics.svg)
