@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jan
-<p>A Computer Science student</p>
+<p>A Computer Science student</p>  
 
 ## 🚀 Languages and Tools I Use
 <p>
@@ -24,23 +24,13 @@
 </p>
 
 ## 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkndd&show_icons=true&locale=en" alt="darkndd" />
-</p>
+![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkndd&show_icons=true&locale=en&theme=dark)
 
 ## 🔥 Streak Stats
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkndd&" alt="darkndd" />
-</p>
+![Jan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=darkndd&theme=dark)
 
 ## 🗂️ Top Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkndd&show_icons=true&locale=en&layout=compact" alt="darkndd" />
-</p>
+![Jan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=darkndd&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=darkndd" alt="darkndd" />
-  </a>
-</p>
+[![Jan's Trophies](https://github-profile-trophy.vercel.app/?username=darkndd&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
