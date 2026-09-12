@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer in training based in Barcelona, pa
 * 🎓 **Currently:** Studying Computer Engineering at Universitat Politècnica de Catalunya (UPC).
 * 💡 **My focus:** Full-cycle development, system design, and data-driven solutions.
 * 🚀 **Interests:** I enjoy exploring everything from low-level logic with C/C++ to creating interactive projects with C# and Unity.
-* 📫 **Get in touch:** [(https://www.linkedin.com/in/jandiezdelosrios)] | [jan10drp@gmail.com]
+* 📫 **Get in touch:** [(https://www.linkedin.com/in/jandiezdelosrios)] | [jandiezdelosrios@gmail.com]
 
 ## 🚀 Languages and Tools I Use
 <p>
